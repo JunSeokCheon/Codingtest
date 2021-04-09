@@ -1,8 +1,7 @@
 # Codingtest
 python for codingtest
 ### 1. Greedy Alforithm
-
-  1.1 큰 수의법칙(Normal)
+	1.1 큰 수의법칙(Normal)
 
   1.2 큰 수의법칙(Advance)
 
