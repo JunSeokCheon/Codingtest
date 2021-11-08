@@ -2,7 +2,7 @@ import sys
 
 N = int(sys.stdin.readline())
 
-def four_square(num):
+def square(num):
   if int(num**0.5) == num**0.5:
     return 1
   for i in range(1, int(num**0.5)+1):
@@ -14,4 +14,4 @@ def four_square(num):
         return 3
   return 4
   
-print(four_square(N))
+print(square(N))
